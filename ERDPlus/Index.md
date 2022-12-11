@@ -1,2 +1,2 @@
 * Diagrama representado en ERDPlus -> Práctica.erdplus
-* Diagrama en su formato racional -> Práctica_REL.erdplus
+* Diagrama en su formato relacional -> Práctica_REL.erdplus
